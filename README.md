@@ -1,6 +1,12 @@
 <div align="center">
-  <!-- Aesthetic motion-blurred avatar used as a decoration banner -->
-  <img src="avatar.jpg" width="220" height="220" style="border-radius: 50%; border: 3px solid #1a1a1a; box-shadow: 0 4px 20px rgba(0,0,0,0.6);" alt="Kauan Guimarães" />
+  <!-- Aesthetic animated dark banner -->
+  <img src="banner.svg" width="100%" alt="Kauan Guimarães Banner" />
+
+  <br />
+  <br />
+
+  <!-- Aesthetic motion-blurred avatar used as a decoration -->
+  <img src="avatar.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #1a1a1a; box-shadow: 0 4px 20px rgba(0,0,0,0.6);" alt="Kauan Guimarães Avatar" />
 
   <br />
   <br />
