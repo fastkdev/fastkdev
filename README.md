@@ -37,17 +37,4 @@
   <br />
   <hr style="border: 0; border-top: 1px solid #21262d; width: 80%;" />
   <br />
-
-  <h3>📊 Stats</h3>
-  
-  <table border="0" cellpadding="0" cellspacing="0" align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=fastkdev&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e&border_color=21262d&hide_title=false" alt="Kauan's Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastkdev&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e&border_color=21262d&hide_title=false" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
 </div>
